@@ -2,6 +2,8 @@ package com.example.javamavenjunithelloworld;
 
 import java.io.PrintStream;
 
+BREAKING BUILD ON PURPOSE - BUILD FAIL!! COMPILATION ERROR
+
 /**
  * Simple class that says "Hello!".
  */
